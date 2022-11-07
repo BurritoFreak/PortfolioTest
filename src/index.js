@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import App from './components/App';
 
 //For getting individual routes to work. 
-// import { BrowserRouter as Router, Route, Link } from "react-router-dom";
+ import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import { Router, Route, Link } from "react-router-dom";
 
 //Material Design Bootstrap
